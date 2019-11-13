@@ -676,3 +676,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-01.26.01:127][296]LogEditorViewport: Clicking Background
 [2019.11.13-01.26.06:379][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.11.13-01.26.24:588][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.30.23:072][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.13-01.30.23:257][830]LogSavePackage: Moving '../../../../../../Users/emman/Documents/GitHub/Epic_MegaJam_2019/Saved/StartupMap_Auto106D442A84FCDE3683362489D8A55A3F6.tmp' to '../../../../../../Users/emman/Documents/GitHub/Epic_MegaJam_2019/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2019.11.13-01.30.23:260][830]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.217
+[2019.11.13-01.30.23:260][830]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2019.11.13-01.31.29:375][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.31.34:788][888]LogSourceControl: Writed 'D:/Users/emman/Documents/GitHub/Epic_MegaJam_2019/Saved/Diff/temp-ef9f5395deb55a4ff79f6210a4443c0057df6d42-Julio_Test.uasset' (117081o)
+[2019.11.13-01.31.46:816][321]LogSlate: Window 'Julio_Test - Blueprint Diff' being destroyed
+[2019.11.13-01.31.49:896][662]LogSourceControl: Writed 'D:/Users/emman/Documents/GitHub/Epic_MegaJam_2019/Saved/Diff/temp-a4fca2dc91b33a2bf40f6116d74304433d64818e-test_Actor.uasset' (19601o)
+[2019.11.13-01.31.54:304][187]LogSlate: Window 'test_Actor - Blueprint Diff' being destroyed
