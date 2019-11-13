@@ -673,3 +673,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-01.24.01:753][468]SourceControl: Commited [master ef9f539] Minor change to test.
 [2019.11.13-01.24.05:904][956]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.23/Engine/Content: 'D:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
 [2019.11.13-01.24.06:083][956]EditorErrors: Warning: No assets to check in!
+[2019.11.13-01.26.01:127][296]LogEditorViewport: Clicking Background
+[2019.11.13-01.26.06:379][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.26.24:588][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
